@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://ashishkarn:Spectre@18@devbook.zhsoz.mongodb.net/DEVHUB?retryWrites=true&w=majority",
+    "jwtSecret":"mysecret",
+    "githubClientId":"f2fd2fb293dc4ec09b9c",
+    "githubSecret":"1211045a1d2e8b6e53aa9988cb88236afc8a00d9"
+}
